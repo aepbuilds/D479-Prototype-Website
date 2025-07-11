@@ -973,7 +973,7 @@ about
 */
 
 #about {
-  margin-top: 20px;
+  margin-top: 10rem;
   padding: 100px 0px 0px 0px;
   position: relative;
   z-index: 9;
@@ -1782,4 +1782,8 @@ responsive
   100% {
     opacity: 0;
   }
+}
+
+.local-activity {
+  margin: 2rem 0;
 }
